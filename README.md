@@ -80,9 +80,17 @@ class Anushree:
 
 ## 🚀 Projects I Didn't Rage Quit
 
-### 🤖 Agentic AI Workflow System
-`Python` `LangGraph` `Claude API` `Multi-Agent`
-> Built a multi-agent system where AI does the thinking, planning, and executing — autonomously. Basically, I made myself replaceable and called it innovation.
+### 🔍 Review Hub — AI-Powered Review Analytics Platform
+`React.js` `Node.js` `Express.js` `Python` `NLP` `Flask` `Vercel`
+
+> An intelligent review management platform that uses AI-powered sentiment analysis to help businesses turn raw customer feedback into actionable insights — because reading 1000 reviews manually is nobody's idea of fun.
+
+**What it does:**
+- 🧠 **AI Sentiment Analysis** — classifies reviews as Positive / Negative / Neutral automatically
+- 📊 **Smart Dashboard** — real-time charts showing feedback trends & rating patterns
+- 🔎 **Root Cause Analysis** — clusters complaints to find *why* customers are unhappy
+- ⚡ **Microservices Architecture** — React frontend + Node.js API + Python NLP service, all talking to each other
+
 
 ### 🧩 More brewing in the lab...
 > *"The best project is the one currently living in 14 open tabs."*
@@ -93,7 +101,7 @@ class Anushree:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=anush-2705&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=anush-2705&theme=midnight-purple&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
@@ -105,7 +113,7 @@ class Anushree:
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=darkhub&no-frame=true&margin-w=4&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=darkhub&no-frame=true&column=6&margin-w=10" />
 </div>
 
 ---
@@ -113,11 +121,7 @@ class Anushree:
 ## 🐍 Watch My Commits Get Eaten
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
