@@ -117,9 +117,9 @@ class Anushree:
 
 ## 🐍 Watch My Commits Get Eaten
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
