@@ -100,21 +100,17 @@ class Anushree:
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=komuanush27-9580&show_icons=true&theme=tokyonight" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anush-2705&theme=tokyonight" />
 </p>
+
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anush-2705&theme=react-dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" 
-  <img src="https://streak-stats.demolab.com?user=anush-2705&theme=midnight-purple&hide_border=true" width="48%" />
 </p>
-
----
----
 
 ## 🐍 Watch My Commits Get Eaten
 
