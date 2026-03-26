@@ -1,132 +1,153 @@
-# 🙋‍♀️ Hi, I'm Anushree Rane — yes, another person who talks to AI for fun.
+<div align="center">
 
-> *Welcome to my GitHub, where I try to make my commits look intentional and pretend I knew what I was doing all along. Grab a coffee ☕ — let's go.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Anushree%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Explorer%20%7C%20Code%20Wrangler%20%7C%20Professional%20Tab%20Hoarder&descAlignY=55&descSize=18" />
 
----
+</div>
 
-## 💡 Who Am I?
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+actually+work+%E2%9C%A8;Obsessed+with+Agentic+AI+%F0%9F%A4%96;Always+learning%2C+rarely+sleeping+%F0%9F%8C%99;LLMs+are+my+love+language+%F0%9F%92%AC)](https://git.io/typing-svg)
 
-- 🤖 **AI & Agentic Systems** enthusiast — because teaching machines to think is basically my hobby now.
-- 🧠 Curious about everything from **backend systems** to **Generative AI**.
-- 💬 The kind of person who opens 47 browser tabs "just to research one thing."
-- 🌍 Currently somewhere between *learning* and *pretending I already know*.
-- 💪 I believe in **building things that actually work**, not just things that look good in a README.
+</div>
 
 ---
 
-## 🚀 What I Actually Do
+## 🌸 The Origin Story
 
-- 🔧 Build backend systems and APIs that *hopefully* don't break in production.
-- 🤖 Experiment with **AI agents, LLMs, and agentic workflows** — because the future is wild and I want in.
-- 🐛 Fix bugs I may or may not have introduced myself.
-- 📚 Attend AI summits and come back with 10 new ideas and 0 time to build them.
-- ☁️ Google things I *technically* should already know.
+```python
+class Anushree:
+    def __init__(self):
+        self.name        = "Anushree Rane"
+        self.title       = "AI & Full Stack Developer"
+        self.based_in    = "India 🇮🇳"
+        self.current_obsession = "Agentic AI & Multi-Agent Systems"
+        self.brain_fuel  = ["chai ☕", "curiosity 🔍", "lo-fi music 🎵"]
+        self.superpower  = "Turning 'it almost works' into 'it works!'"
+        self.weakness    = "Opening 47 tabs to research ONE thing"
+
+    def life_motto(self):
+        return "Build it. Break it. Fix it. Ship it. 🚀"
+```
 
 ---
 
-## 🌐 Socials — Stalk Me Professionally
+## 🧠 What I'm About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushree-rane)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anush-2705)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushreerane2705@gmail.com)
+> *"I didn't choose the AI life — the AI life chose me. Then I fine-tuned it."*
+
+- 🤖 **AI/ML nerd** who got hopelessly addicted to Agentic workflows
+- 🔗 Exploring **LangChain, LangGraph, and multi-agent systems** like it's a sport
+- 🏗️ Backend builder who believes clean architecture > clever hacks
+- 🎤 Attended **Agentic AI Summits** and came back with big dreams and mild existential crises
+- 📚 Perpetual learner — currently somewhere between *"I understand this"* and *"wait, what?"*
+- 💡 I build things that help people, not just things that impress recruiters (okay, both)
 
 ---
 
-## 🛠️ Tech Stack *(aka: things I actually use)*
+## 🛠️ My Weapons of Choice
 
-**Languages**
+<div align="center">
 
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### ⚙️ Frameworks & Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**AI & Tools**
-
-![Claude](https://img.shields.io/badge/Claude_AI-FF6B35?style=for-the-badge&logoColor=white)
+### 🤖 AI & Agentic Stack
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Dev & Cloud**
-
+### ☁️ Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📚 What I'm Learning *(so future-me doesn't cry later)*
-
-- 🤖 **Agentic AI** — because single-shot prompts weren't ambitious enough.
-- 🔗 **LangGraph & multi-agent systems** — teaching agents to work together so I don't have to.
-- 🏗️ **System Design** — some days it clicks, some days I stare at whiteboards dramatically.
-- ☁️ **Cloud & DevOps** — deploying things so they don't only work on my laptop.
+</div>
 
 ---
 
-## 🏆 Projects I Have done
+## 🚀 Projects I Didn't Rage Quit
 
-### 🤖 Agentic AI Projects
-`Python` `LangChain` `Claude API` `Multi-agent`  
-Building intelligent agents that can *actually do things* — not just chat.  
-Exploring workflows where AI handles research, planning, and execution autonomously.
+### 🤖 Agentic AI Workflow System
+`Python` `LangGraph` `Claude API` `Multi-Agent`
+> Built a multi-agent system where AI does the thinking, planning, and executing — autonomously. Basically, I made myself replaceable and called it innovation.
 
-### 💡 More projects coming soon...
-> *"The best projects are the ones you're still building."*
-
----
-
-## 😂 Fun Facts
-
-- 🧠 I debug by explaining the problem out loud. It works 60% of the time, every time.
-- 🤝 Attended an **Agentic AI Summit** and came back more confused *and* more excited. Growth.
-- ☕ My code quality is directly proportional to my caffeine intake.
-- 🌙 "I'll just fix one more thing" at 11pm has never once been true.
-- 📁 I have a folder called `final_FINAL_v3_REAL_THIS_TIME`. We don't talk about it.
+### 🧩 More brewing in the lab...
+> *"The best project is the one currently living in 14 open tabs."*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 The Receipts (GitHub Stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anush-2705&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anush-2705&theme=midnight-purple&hide_border=true" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush-2705&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush-2705&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="45%" />
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Trophy Cabinet
 
-<p align="center">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 🐍 Watch My Commits Get Eaten
+
+<div align="center">
   <img src="https://github.com/anush-2705/anush-2705/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anush-2705&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
+## 🎲 Fun Facts — The Unfiltered Version
 
-<p align="center">⭐️ <i>If something here made you smile — a star goes a long way. Or just say hi, I don't bite (usually).</i> 😄</p>
+| 💬 What I say | 🤫 What I mean |
+|---|---|
+| *"Almost done!"* | I haven't started yet |
+| *"It's a minor fix"* | RIP the entire codebase |
+| *"Let me just Google this real quick"* | 2 hours have passed |
+| *"The AI agent is working great"* | It works once, in a demo, with wifi |
+| *"I'll refactor this later"* | No I won't |
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushree-rane)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anush-2705)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%91%BE&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" />
+
+<img src="https://komarev.com/ghpvc/?username=anush-2705&label=👁️+Profile+Views&color=blueviolet&style=flat-square" />
+
+*If my README made you smile, drop a ⭐ — it's free and it fuels my chai addiction* ☕
+
+</div>
