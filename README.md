@@ -109,6 +109,8 @@ class Anushree:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anush-2705&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" 
+  <img src="https://streak-stats.demolab.com?user=anush-2705&theme=midnight-purple&hide_border=true" width="48%" />
 </p>
 
 ---
