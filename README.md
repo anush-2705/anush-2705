@@ -93,7 +93,7 @@ class Anushree:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anush-2705&theme=midnight-purple&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=anush-2705&theme=midnight-purple&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
@@ -105,9 +105,8 @@ class Anushree:
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=darkhub&no-frame=true&column=6" />
 </div>
----
 
 ## 🐍 Watch My Commits Get Eaten
 
