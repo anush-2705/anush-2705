@@ -92,12 +92,12 @@ class Anushree:
 ## 📊 The Receipts (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anush-2705&theme=midnight-purple&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush-2705&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush-2705&layout=compact&theme=midnight-purple&hide_border=true" width="45%" />
 </div>
 
 ---
@@ -105,9 +105,8 @@ class Anushree:
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=darkhub&no-frame=true&row=1&column=6" />
 </div>
-
 ---
 
 ## 🐍 Watch My Commits Get Eaten
