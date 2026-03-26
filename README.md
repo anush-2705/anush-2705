@@ -53,7 +53,7 @@ class Anushree:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### ⚙️ Frameworks & Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -93,11 +93,11 @@ class Anushree:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=anush-2705&theme=midnight-purple&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=anush-2705&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush-2705&layout=compact&theme=midnight-purple&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush-2705&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" width="40%" />
 </div>
 
 ---
@@ -105,13 +105,19 @@ class Anushree:
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=darkhub&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=darkhub&no-frame=true&margin-w=4&row=1&column=6" />
 </div>
+
+---
 
 ## 🐍 Watch My Commits Get Eaten
 
 <div align="center">
-  <img src="https://github.com/anush-2705/anush-2705/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
