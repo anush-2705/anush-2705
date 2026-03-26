@@ -148,8 +148,9 @@ class Anushree:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%91%BE&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" />
 
-<img src="https://komarev.com/ghpvc/?username=anush-2705&label=👁️+Profile+Views&color=blueviolet&style=flat-square" />
 
 *If my README made you smile, drop a ⭐ — it's free and it fuels my chai addiction* ☕
+
+<img src="https://komarev.com/ghpvc/?username=anush-2705&label=👁️+Profile+Views&color=blueviolet&style=flat-square" />
 
 </div>
