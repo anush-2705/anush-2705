@@ -119,7 +119,7 @@ class Anushree:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anush-2705/anush-2705/output/github-contribution-grid-snake.svg" />
-</p>
+</p>>
 
 ---
 
