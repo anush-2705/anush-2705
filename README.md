@@ -44,7 +44,7 @@ class Anushree:
 
 ---
 
-## 🛠️ My Weapons of Choice
+## 🛠️ WorkFlow
 
 <div align="center">
 
@@ -78,7 +78,7 @@ class Anushree:
 
 ---
 
-## 🚀 Projects I Didn't Rage Quit
+## 🚀 Projects
 
 ### 🔍 Review Hub — AI-Powered Review Analytics Platform
 `React.js` `Node.js` `Express.js` `Python` `NLP` `Flask` `Vercel`
