@@ -97,25 +97,22 @@ class Anushree:
 
 ---
 
-## 📊 The Receipts (GitHub Stats)
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anush-2705&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=anush-2705&theme=midnight-purple&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush-2705&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" width="40%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 Trophy Cabinet
+## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anush-2705&theme=darkhub&no-frame=true&column=6&margin-w=10" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+</p>
 
+---
 ---
 
 ## 🐍 Watch My Commits Get Eaten
