@@ -1,0 +1,37 @@
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: anush-2705
+          outputs: github-contribution-grid-snake.svg
+
+      - name: Create output branch & push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/anush-2705/anush-2705.git repo
+          cd repo
+          
+          git checkout --orphan output
+          rm -rf *
+          
+          cp ../github-contribution-grid-snake.svg .
+          
+          git add .
+          git commit -m "generate snake"
+          git push origin output --force
